@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "HomeworkDp\Proxy.csproj", "{8B348DAF-F549-409C-ADCB-A87A3CBC4862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyWeight", "FlyWeight\FlyWeight.csproj", "{7FBB149D-9C93-4DBC-9E35-FD7D8084AB4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B348DAF-F549-409C-ADCB-A87A3CBC4862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B348DAF-F549-409C-ADCB-A87A3CBC4862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B348DAF-F549-409C-ADCB-A87A3CBC4862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B348DAF-F549-409C-ADCB-A87A3CBC4862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBB149D-9C93-4DBC-9E35-FD7D8084AB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBB149D-9C93-4DBC-9E35-FD7D8084AB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBB149D-9C93-4DBC-9E35-FD7D8084AB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBB149D-9C93-4DBC-9E35-FD7D8084AB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED941861-BA3F-41E9-BB8A-38C8D2252B60}
+	EndGlobalSection
+EndGlobal
